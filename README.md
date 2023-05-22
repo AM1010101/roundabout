@@ -17,13 +17,13 @@ Pub/Sub Messaging: Support for Pub/Sub messaging, allowing subscription to speci
 Simple to use and understand
 
 TODO.  
-pub sub example. 
-  Can we use pydantic to define events?
-list example
-hash example
-set example
+pub sub example.  
+  Can we use pydantic to define events?   
+list example.  
+hash example.  
+set example.  
 
 Future ideas.  
-external api
+external api.  
 strong typing for data?
-event trigger/rules
+event trigger/rules.  
