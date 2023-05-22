@@ -1,5 +1,5 @@
 # roundabout Ѻ
-Minimal redis like features in native python
+Minimal redis like features in native python.  
 Intended to be used within a single python project to share data between threads and processes in a more user friendly way.
 
 Goals.  
